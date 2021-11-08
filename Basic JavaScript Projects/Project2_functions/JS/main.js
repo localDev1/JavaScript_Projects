@@ -20,3 +20,11 @@ function operator()
     //USing the getElementById to call this function in the HTML code using id name
     document.getElementById("name").innerHTML = x;
 }
+
+/*FUNCTION CHALLENGE*/
+
+function Multiply(x,y)
+{
+    var z=x*y;
+    return z;
+}
