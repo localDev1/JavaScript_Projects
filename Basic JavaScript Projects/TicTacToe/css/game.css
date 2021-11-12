@@ -8,12 +8,14 @@
     margin-top: 50px;   
 }
 
+/*modifying the appearance of the table*/
 table
 {
     border-collapse: collapse;
     border-style: hidden;
 }
 
+/*modifying the contents of the table*/
 td 
 {
     cursor: pointer;
@@ -23,6 +25,7 @@ td
     height: 200px;
 }
 
+/*modifying the appearance of the container*/
 canvas
 {
     position: absolute;
