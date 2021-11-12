@@ -1,0 +1,98 @@
+#menuBG 
+{
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu 
+{
+    width: 600px;
+    height: 200px;
+}
+
+#totalPrice 
+{
+    width: 200px;
+    height: 190px;
+    margin: 20px auto;
+    float: right;
+}
+
+/*Add a size pizza in the left of the menu.*/
+.left 
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+
+/*Add a vegetable toppings option in the center of the menu.*/
+
+.center 
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+/*Add a Meats pizza in the left of the menu.*/
+.right 
+{
+    width: 200px;
+    height: 250px;
+    float: right;
+
+}
+
+#showText 
+{
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart 
+{
+    top: 0;margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder 
+{
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 25px auto;
+}
+/*Assign a background color to your <body> element.*/
+body 
+{
+    background-color: darksalmon;
+}
+
+/*Assign a font family and color to all <h1> elements.*/
+h1 
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rebeccapurple;
+}
+
+/*Assign a font family and color to all <h3> elements.*/
+h3 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color:midnightblue;
+}
+
+/*Assign a font family and color to all <div> elements.*/
+div 
+{
+    font-family: cursive;
+    color: mediumblue;
+}
+
