@@ -1,0 +1,55 @@
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(140, 159, 199);
+  color: white;
+  width: 100%;
+}
+
+html 
+{
+  font-family: "Avenir Next", Helvetica, sans-serif;
+  text-align: center;
+}
+
+body{
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input{
+  padding-top: 30px;
+  width: 500px;
+  height: 60px;
+  font-size: 40px;
+  border: 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+li{
+  text-align: left;
+  font-size: 40px;
+  list-style: none;
+  margin: 0;
+}
+
+/*Using CSS, center the UI element that presents your todo entry point and task list.*/
+.divCenter{
+  text-align: center;
+  color: rgb(47, 0, 255);
+}
+
+/*Footer sticky*/
+footer.sticky {
+  left: 0;
+  position: fixed;  
+  bottom: 0; 
+  
+}
+
+.remove {
+  padding-bottom: 5px;
+}
